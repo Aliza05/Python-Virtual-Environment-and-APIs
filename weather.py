@@ -1,7 +1,7 @@
 import requests
 
 # Enter your API key here
-api_key = '6f7f39550cde4de4894113247220112'
+api_key = '#################'
 
 # base_url variable to store url
 base_url = 'http://api.weatherapi.com/v1/current.json'
